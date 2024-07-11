@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e56ae8e66f4c25e2","type":"file","file":"인물/시체기사.md","x":80,"y":220,"width":220,"height":220},
+		{"id":"4a8316cb7f803a5b","type":"file","file":"인물/그웬돌린 벤투스.md","x":740,"y":220,"width":220,"height":220},
+		{"id":"7a463177d7f08740","type":"file","file":"인물/카시우스 라티시무스.md","x":740,"y":740,"width":220,"height":220},
+		{"id":"9cde47f0b0fa497d","x":80,"y":740,"width":220,"height":220,"type":"file","file":"인물/가이우스 마르켈루스.md"}
+	],
+	"edges":[
+		{"id":"86c281bfde22848f","fromNode":"e56ae8e66f4c25e2","fromSide":"right","toNode":"4a8316cb7f803a5b","toSide":"left","label":"없는것 보다는 낫다고 생각"},
+		{"id":"0200bf47725d87a9","fromNode":"4a8316cb7f803a5b","fromSide":"top","toNode":"e56ae8e66f4c25e2","toSide":"top","label":"보수적인 성격에 반비례하는 과격한 여정에 이끌림"},
+		{"id":"1531a561a1cee94c","fromNode":"4a8316cb7f803a5b","fromSide":"right","toNode":"7a463177d7f08740","toSide":"right","fromEnd":"arrow","label":"짱친"},
+		{"id":"22f4118122c145e9","fromNode":"7a463177d7f08740","fromSide":"left","toNode":"e56ae8e66f4c25e2","toSide":"bottom","label":"그웬돌린이랑\n 다니는게 아니꼬움\n"},
+		{"id":"fd81a3b8e4a2600d","fromNode":"9cde47f0b0fa497d","fromSide":"left","toNode":"e56ae8e66f4c25e2","toSide":"left","fromEnd":"arrow","label":"서로 고마움"},
+		{"id":"98c898f60292447a","fromNode":"9cde47f0b0fa497d","fromSide":"top","toNode":"4a8316cb7f803a5b","toSide":"bottom","fromEnd":"arrow","label":"짱친인데 sus함"},
+		{"id":"6fc90510477a2aaa","fromNode":"7a463177d7f08740","fromSide":"bottom","toNode":"9cde47f0b0fa497d","toSide":"bottom","label":"개신경쓰임"},
+		{"id":"5a4afbe787e49343","fromNode":"e56ae8e66f4c25e2","fromSide":"right","toNode":"7a463177d7f08740","toSide":"top","label":"그냥 싸가지가 없음"}
+	]
+}
